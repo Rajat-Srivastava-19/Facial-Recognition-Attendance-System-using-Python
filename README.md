@@ -1,4 +1,4 @@
-This is my Facial Recognition Attendance Management using Python project. In this project, I have used tkinter,opencv,numpy and MySql connector<br>
+This is my Facial Recognition Attendance Management using Python project. In this project, I have used tkinter,opencv,numpy and MySql connector. I have used Haarcascade Frontal Face algorithm<br>
 The description of all the files of the project is as follows:<br>
 1. main.py- This file contains code for the opening interface of the application.<br>
 2. student.py- This file contains code for STUDENT ACCOUNT section. This section will contain details of various students. <br>We can save,update,delete and reset the student details in this section. In this section face capturing will also be done.<br>
